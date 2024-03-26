@@ -6,7 +6,7 @@ public class Curso{
 
     public List<Turma> turmas = new List<Turma>();
 
-    public void AdicionarTurma(Turma t){
+    public void adicionarTurma(Turma t){
         this.turmas.Add(t);
     }
 }

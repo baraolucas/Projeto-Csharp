@@ -1,6 +1,6 @@
 // ./turma.cs
 public class Turma{
-    public int anoformacao{get;set;}
+    public int ano_formacao{get;set;}
     public string turno{get;set;}
     public string sala{get;set;}
 
